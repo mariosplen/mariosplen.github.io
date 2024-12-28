@@ -1,0 +1,62 @@
+{
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "aboutDescription": "I’m a Computer Science graduate from the Democritus University of Thrace, Greece. Since the beginning of my academic journey, I've experimented with various frameworks like Django, Flutter and React. Currently, I work as a Mobile Developer at Deloitte, specializing in Flutter and contributing to large-scale projects alongside talented teams in a highly organized environment. My goal is to improve further and deliver high-quality, user-friendly experiences.",
+    "age": "Age",
+    "birthDate": "19.05.2001",
+    "from": "From",
+    "fromValue": "Kavala, Greece",
+    "contactMe": "Contact Me!",
+    "email": "Email",
+    "emailValue": "mariosplenchidis@gmail.com",
+    "downloadResume": "Download CV",
+    "name": "Name",
+    "nameValue": "Marios Plenchidis",
+    "english": "English",
+    "greek": "Ελληνικά",
+    "resume": "Resume",
+    "whoAmI": "Who am I?",
+    "send": "Send",
+    "nameHint": "Please enter your name",
+    "emailHint": "Please enter your email",
+    "emailInvalid": "Please enter a valid email",
+    "messageHint": "Please enter your message",
+    "formSuccess": "Your message was successfully sent!",
+    "formFailure": "An error occurred, please try again later.",
+    "footerNote": "Built with Flutter, inspired by the web.",
+    "footerCopyright": "All rights reserved. © 2025",
+    "project": {
+        "project_1": {
+            "name": "SnapRFID Inventory",
+            "description": "An automated object recognition system integrating RFID and AI for assisted inventory management. The system is designed to help businesses track their inventory in real-time, reducing human error and increasing efficiency.",
+            "url": "https://github.com/mariosplen/rfid_inventory_app",
+            "screenshotPath": "assets/images/projects/inventory_app.jpg"
+        },
+        "project_2": {
+            "name": "Flutter News",
+            "description": "Flutter News is a news app that uses NewsAPI to fetch the latest news from various sources, it also connects to firebase to authenticate users and save their favorite articles.",
+            "url": "https://github.com/mariosplen/News-App-Flutter",
+            "screenshotPath": "assets/images/projects/news_app.jpg"
+        },
+        "project_3": {
+            "name": "GlobalHelp App",
+            "description": "GlobalHelp is a Flutter app that provides quick access to emergency numbers worldwide and allows users to easily share their location during emergencies.",
+            "url": "https://github.com/mariosplen/SOS-App-Flutter",
+            "screenshotPath": "assets/images/projects/sos_app.jpg"
+        },
+        "project_4": {
+            "name": "Bookings App",
+            "description": "The Bookings App is a user-friendly Java Desktop application designed to help the hotel staff with the management of reservations, check-ins, check-outs, and room availability.",
+            "url": "https://github.com/mariosplen/Bookings-App-JavaFX",
+            "screenshotPath": "assets/images/projects/bookings_app.jpg"
+        }
+    },
+    "desc1": "I'm ",
+    "desc2": "Marios",
+    "desc3": "\nApp Developer\n",
+    "desc4": "Experienced in",
+    "desc5": " Flutter ",
+    "desc6": "& Dart... and more!"
+}

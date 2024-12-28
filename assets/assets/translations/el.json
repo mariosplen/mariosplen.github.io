@@ -1,0 +1,62 @@
+{
+    "home": "Αρχική",
+    "about": "Σχετικά",
+    "projects": "Πρότζεκτ",
+    "contact": "Επικοινωνία",
+    "aboutDescription": "Είμαι απόφοιτος Πληροφορικής του Δημοκρίτειου Πανεπιστημίου Θράκης. Από την αρχή της ακαδημαϊκής μου καριέρας, έχω πειραματιστεί με διάφορα frameworks, όπως Django, Flutter και React. Αυτή τη στιγμή εργάζομαι ως Mobile Developer στη Deloitte, με το Flutter Framework. Προσπαθώ να ακολουθώ βέλτιστες πρακτικές και να δημιουργώ υψηλής ποιότητας, φιλικές προς τον χρήστη εφαρμογές.",
+    "age": "Ηλικία",
+    "birthDate": "19.05.2001",
+    "from": "Από",
+    "fromValue": "Χρυσούπολη Καβάλας",
+    "contactMe": "Επικοινωνήστε μαζί μου!",
+    "email": "Email",
+    "emailValue": "mariosplenchidis@gmail.com",
+    "downloadResume": "Κατεβάστε το CV",
+    "name": "Όνομα",
+    "nameValue": "Μάριος Πλεγχίδης",
+    "english": "English",
+    "greek": "Ελληνικά",
+    "resume": "Βιογραφικό",
+    "whoAmI": "Ποιός είμαι;",
+    "send": "Αποστολή",
+    "nameHint": "Παρακαλώ εισάγετε το όνομά σας",
+    "emailHint": "Παρακαλώ εισάγετε το email σας",
+    "emailInvalid": "Παρακαλώ εισάγετε έγκυρο email",
+    "messageHint": "Παρακαλώ εισάγετε το μήνυμά σας",
+    "formSuccess": "Το μήνυμά σας στάλθηκε με επιτυχία!",
+    "formFailure":  "Παρουσιάστηκε σφάλμα, παρακαλώ προσπαθήστε ξανά αργότερα.",
+    "footerNote": "Κατασκευάστηκε σε Flutter, εμπνευσμένο από το διαδίκτυο.",
+    "footerCopyright": "Όλα τα δικαιώματα διατηρούνται. © 2025",
+    "project": {
+        "project_1": {
+            "name": "SnapRFID Inventory",
+            "description": "Ένα αυτοματοποιημένο σύστημα αναγνώρισης αντικειμένων που ενσωματώνει RFID και AI για διαχείριση αποθεμάτων. Το σύστημα σχεδιάστηκε για να βοηθά τις επιχειρήσεις να παρακολουθούν τα αποθέματά τους σε πραγματικό χρόνο, μειώνοντας τα ανθρώπινα λάθη και αυξάνοντας την αποδοτικότητα.",
+            "url": "https://github.com/mariosplen/rfid_inventory_app",
+            "screenshotPath": "assets/images/projects/inventory_app.jpg"
+        },
+        "project_2": {
+            "name": "Flutter News",
+            "description": "Το Flutter News είναι μια εφαρμογή ειδήσεων που χρησιμοποιεί το NewsAPI για να τραβήξει τις τελευταίες ειδήσεις από διάφορες πηγές. Συνδέεται επίσης με το Firebase για αυθεντικοποίηση χρηστών και αποθήκευση αγαπημένων άρθρων.",
+            "url": "https://github.com/mariosplen/News-App-Flutter",
+            "screenshotPath": "assets/images/projects/news_app.jpg"
+        },
+        "project_3": {
+            "name": "GlobalHelp App",
+            "description": "Το GlobalHelp είναι μια εφαρμογή Flutter που παρέχει γρήγορη πρόσβαση σε αριθμούς έκτακτης ανάγκης παγκοσμίως και επιτρέπει στους χρήστες να μοιράζονται εύκολα την τοποθεσία τους σε περιπτώσεις έκτακτης ανάγκης.",
+            "url": "https://github.com/mariosplen/SOS-App-Flutter",
+            "screenshotPath": "assets/images/projects/sos_app.jpg"
+        },
+        "project_4": {
+            "name": "Bookings App",
+            "description": "Η εφαρμογή Bookings είναι μια φιλική προς τον χρήστη Java Desktop εφαρμογή, σχεδιασμένη να βοηθά το προσωπικό ξενοδοχείου με τη διαχείριση κρατήσεων, check-ins, check-outs και τη διαθεσιμότητα δωματίων.",
+            "url": "https://github.com/mariosplen/Bookings-App-JavaFX",
+            "screenshotPath": "assets/images/projects/bookings_app.jpg"
+        }
+    },
+    "desc1": "Είμαι ο ",
+    "desc2": "Μάριος",
+    "desc3": "\nΠρογραμματιστής Εφαρμογών\n",
+    "desc4": "Εμπειρία σε",
+    "desc5": " Flutter ",
+    "desc6": "& Dart... και άλλα!"
+}
