@@ -2,18 +2,18 @@
 <html lang="en">
 <head>
   <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
+  If you are serving your web app in a path other than the root, change the
+  href value below to reflect the base path you are serving from.
 
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
+  The path provided below has to start and end with a slash "/" in order for
+  it to work correctly.
 
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+  For more details:
+  * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
 
-    This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
-    -->
+  This is a placeholder for base href that will be replaced by the value of
+  the `--base-href` argument provided to `flutter build`.
+  -->
   <base href="/">
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -24,38 +24,50 @@
   <meta content="portfolio" name="apple-mobile-web-app-title">
   <link href="icons/Icon-192.png" rel="apple-touch-icon">
   <!-- Favicon -->
-  <link href="favicon.png" rel="icon" type="image/png"/>
+  <link href="favicon.png" rel="icon" type="image/png" />
   <title>Marios Plenchidis</title>
   <link href="manifest.json" rel="manifest">
 </head>
 <body>
 <style>
+  @font-face {
+    font-family: 'Roboto Condensed';
+    src: url('./assets/assets/google_fonts/Roboto_Condensed/static/RobotoCondensed-Medium.ttf') format('truetype');
+  }
+
   .loading {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
   }
+
   .loader {
-  width: fit-content;
-  font-weight: bold;
-  font-family: sans-serif;
-  font-size: 45px;
-  padding-bottom: 8px;
-  background: linear-gradient(currentColor 0 0) 0 100%/0% 3px no-repeat;
-  animation: l2 2s linear infinite;
-  text-align: center;
-  color: #0E1630;
+    width: fit-content;
+    font-weight: bold;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 45px;
+    padding-bottom: 8px;
+    background: linear-gradient(currentColor 0 0) 0 100%/0% 3px no-repeat;
+    animation: l2 2s linear infinite;
+    text-align: center;
+    color: #0E1630;
   }
+
   .loader:before {
-  content:"Marios Plenchidis"
+    content: "Marios Plenchidis"
   }
-  @keyframes l2 {to{background-size: 100% 3px}}
+
+  @keyframes l2 {
+    to {
+      background-size: 100% 3px
+    }
+  }
 </style>
 <script src="flutter_bootstrap.js" async></script>
 </body>
