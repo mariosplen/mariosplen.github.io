@@ -103197,7 +103197,7 @@ A.aFk.prototype={
 $1(a){var s
 if(!this.b)return
 s=this.a
-if(a.gyT()>0.85)s.ar(new A.aFi(s))
+if(a.gyT()>0.78)s.ar(new A.aFi(s))
 else s.ar(new A.aFj(s))},
 $S:77}
 A.aFi.prototype={
