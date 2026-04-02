@@ -24,29 +24,41 @@
     "emailInvalid": "Παρακαλώ εισάγετε έγκυρο email",
     "messageHint": "Παρακαλώ εισάγετε το μήνυμά σας",
     "formSuccess": "Το μήνυμά σας στάλθηκε με επιτυχία!",
-    "formFailure":  "Παρουσιάστηκε σφάλμα, παρακαλώ προσπαθήστε ξανά αργότερα.",
+    "formFailure": "Παρουσιάστηκε σφάλμα, παρακαλώ προσπαθήστε ξανά αργότερα.",
     "footerNote": "Κατασκευάστηκε σε Flutter, εμπνευσμένο από το διαδίκτυο.",
     "footerCopyright": "Όλα τα δικαιώματα διατηρούνται. © 2025",
     "project": {
         "project_1": {
+            "name": "Εξετάσεις Οδήγησης",
+            "description": "Η εφαρμογή με την καλύτερη βαθμολογία για την θεωρητική εξέταση οδήγησης στο Play Store. Περιλαμβάνει επίσημες προσομοιώσεις εξετάσεων, όλες τις κατηγορίες αδειών, μελέτη ανά θέμα, λεπτομερείς εξηγήσεις απαντήσεων, παρακολούθηση προόδου, ιστορικό εξετάσεων και πλήρη λειτουργία εκτός σύνδεσης. 5k+ λήψεις.",
+            "url": "https://play.google.com/store/apps/details?id=com.github.mariosplen.greek_test_drive&hl=el",
+            "screenshotPath": "assets/images/projects/greek_driving_exams_el.png"
+        },
+        "project_2": {
+            "name": "Πρόγραμμα Υπηρεσιών Στρατού",
+            "description": "Εφαρμογή Flutter για desktop που δημιουργήθηκε κατά τη διάρκεια της στρατιωτικής μου θητείας, για την αυτοματοποίηση της κατανομής υπηρεσιών σε υπηρεσίες. Διαθέτει ανίχνευση εμπλοκών, εισαγωγή/εξαγωγή Excel και αυτόματη δημιουργία εκτυπώσιμων εγγράφων — πλήρως συμβατή με την υπάρχουσα ροή εργασίας της μονάδας.",
+            "url": "https://github.com/mariosplen/army_scheduler",
+            "screenshotPath": "assets/images/projects/army_scheduler.png"
+        },
+        "project_3": {
             "name": "SnapRFID Inventory",
             "description": "Ένα αυτοματοποιημένο σύστημα αναγνώρισης αντικειμένων που ενσωματώνει RFID και AI για διαχείριση αποθεμάτων. Το σύστημα σχεδιάστηκε για να βοηθά τις επιχειρήσεις να παρακολουθούν τα αποθέματά τους σε πραγματικό χρόνο, μειώνοντας τα ανθρώπινα λάθη και αυξάνοντας την αποδοτικότητα.",
             "url": "https://github.com/mariosplen/rfid_inventory_app",
             "screenshotPath": "assets/images/projects/inventory_app.jpg"
         },
-        "project_2": {
+        "project_4": {
             "name": "Flutter News",
             "description": "Το Flutter News είναι μια εφαρμογή ειδήσεων που χρησιμοποιεί το NewsAPI για να τραβήξει τις τελευταίες ειδήσεις από διάφορες πηγές. Συνδέεται επίσης με το Firebase για αυθεντικοποίηση χρηστών και αποθήκευση αγαπημένων άρθρων.",
             "url": "https://github.com/mariosplen/News-App-Flutter",
             "screenshotPath": "assets/images/projects/news_app.jpg"
         },
-        "project_3": {
+        "project_5": {
             "name": "GlobalHelp App",
             "description": "Το GlobalHelp είναι μια εφαρμογή Flutter που παρέχει γρήγορη πρόσβαση σε αριθμούς έκτακτης ανάγκης παγκοσμίως και επιτρέπει στους χρήστες να μοιράζονται εύκολα την τοποθεσία τους σε περιπτώσεις έκτακτης ανάγκης.",
             "url": "https://github.com/mariosplen/SOS-App-Flutter",
             "screenshotPath": "assets/images/projects/sos_app.jpg"
         },
-        "project_4": {
+        "project_6": {
             "name": "Bookings App",
             "description": "Η εφαρμογή Bookings είναι μια φιλική προς τον χρήστη Java Desktop εφαρμογή, σχεδιασμένη να βοηθά το προσωπικό ξενοδοχείου με τη διαχείριση κρατήσεων, check-ins, check-outs και τη διαθεσιμότητα δωματίων.",
             "url": "https://github.com/mariosplen/Bookings-App-JavaFX",

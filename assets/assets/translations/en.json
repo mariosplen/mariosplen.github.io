@@ -3,7 +3,7 @@
     "about": "About",
     "projects": "Projects",
     "contact": "Contact",
-    "aboutDescription": "I’m a Computer Science graduate from the Democritus University of Thrace, Greece. Since the beginning of my academic journey, I've experimented with various frameworks like Django, Flutter and React. Currently, I work as a Mobile Developer at Deloitte, specializing in Flutter and contributing to large-scale projects alongside talented teams in a highly organized environment. My goal is to improve further and deliver high-quality, user-friendly experiences.",
+    "aboutDescription": "I'm a Computer Science graduate from the Democritus University of Thrace, Greece. Since the beginning of my academic journey, I've experimented with various frameworks like Django, Flutter and React. Currently, I work as a Mobile Developer at Deloitte, specializing in Flutter and contributing to large-scale projects alongside talented teams in a highly organized environment. My goal is to improve further and deliver high-quality, user-friendly experiences.",
     "age": "Age",
     "birthDate": "19.05.2001",
     "from": "From",
@@ -29,24 +29,36 @@
     "footerCopyright": "All rights reserved. © 2025",
     "project": {
         "project_1": {
+            "name": "Greek Driving Exams",
+            "description": "Currently the best-rated Greek driving theory exam app on the Play Store. Featuring official exam simulations, all license categories, topic-based study, detailed answer explanations, progress tracking, exam history, and full offline support. 5k+ downloads.",
+            "url": "https://play.google.com/store/apps/details?id=com.github.mariosplen.greek_test_drive",
+            "screenshotPath": "assets/images/projects/greek_driving_exams.png"
+        },
+        "project_2": {
+            "name": "Military Duty Scheduler",
+            "description": "A Flutter desktop app built during my mandatory military service, to automate the daily scheduling of soldiers to guard posts and duties. Features conflict detection, Excel import/export, and auto-generation of print-ready PDF documents — all backward-compatible with the unit's existing workflow.",
+            "url": "https://github.com/mariosplen/army_scheduler",
+            "screenshotPath": "assets/images/projects/army_scheduler.png"
+        },
+        "project_3": {
             "name": "SnapRFID Inventory",
             "description": "An automated object recognition system integrating RFID and AI for assisted inventory management. The system is designed to help businesses track their inventory in real-time, reducing human error and increasing efficiency.",
             "url": "https://github.com/mariosplen/rfid_inventory_app",
             "screenshotPath": "assets/images/projects/inventory_app.jpg"
         },
-        "project_2": {
+        "project_4": {
             "name": "Flutter News",
             "description": "Flutter News is a news app that uses NewsAPI to fetch the latest news from various sources, it also connects to firebase to authenticate users and save their favorite articles.",
             "url": "https://github.com/mariosplen/News-App-Flutter",
             "screenshotPath": "assets/images/projects/news_app.jpg"
         },
-        "project_3": {
+        "project_5": {
             "name": "GlobalHelp App",
             "description": "GlobalHelp is a Flutter app that provides quick access to emergency numbers worldwide and allows users to easily share their location during emergencies.",
             "url": "https://github.com/mariosplen/SOS-App-Flutter",
             "screenshotPath": "assets/images/projects/sos_app.jpg"
         },
-        "project_4": {
+        "project_6": {
             "name": "Bookings App",
             "description": "The Bookings App is a user-friendly Java Desktop application designed to help the hotel staff with the management of reservations, check-ins, check-outs, and room availability.",
             "url": "https://github.com/mariosplen/Bookings-App-JavaFX",
