@@ -26,17 +26,17 @@
     "formSuccess": "Your message was successfully sent!",
     "formFailure": "An error occurred, please try again later.",
     "footerNote": "Built with Flutter, inspired by the web.",
-    "footerCopyright": "All rights reserved. © 2025",
+    "footerCopyright": "All rights reserved. ©",
     "project": {
         "project_1": {
             "name": "Greek Driving Exams",
-            "description": "Currently the best-rated Greek driving theory exam app on the Play Store. Featuring official exam simulations, all license categories, topic-based study, detailed answer explanations, progress tracking, exam history, and full offline support. 5k+ downloads.",
+            "description": "Currently the best-rated Greek driving theory exam app on the Play Store. Featuring official exam simulations, all license categories, topic-based study, detailed answer explanations, progress tracking, exam history, and full offline support.",
             "url": "https://play.google.com/store/apps/details?id=com.github.mariosplen.greek_test_drive",
             "screenshotPath": "assets/images/projects/greek_driving_exams.png"
         },
         "project_2": {
             "name": "Military Duty Scheduler",
-            "description": "A Flutter desktop app built during my mandatory military service, to automate the daily scheduling of soldiers to guard posts and duties. Features conflict detection, Excel import/export, and auto-generation of print-ready PDF documents — all backward-compatible with the unit's existing workflow.",
+            "description": "A Flutter desktop app built during my mandatory military service, to automate the daily scheduling of soldiers to services. Features conflict detection, Excel import/export, and auto-generation of print-ready PDF documents — all backward-compatible with the unit's existing workflow.",
             "url": "https://github.com/mariosplen/army_scheduler",
             "screenshotPath": "assets/images/projects/army_scheduler.png"
         },
@@ -70,5 +70,5 @@
     "desc3": "\nApp Developer\n",
     "desc4": "Experienced in",
     "desc5": " Flutter ",
-    "desc6": "& Dart...\nand more!"
+    "desc6": "& Dart...\ncrafting polished experiences"
 }
