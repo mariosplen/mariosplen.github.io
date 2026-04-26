@@ -32,7 +32,7 @@
         "project_1": {
             "name": "Greek Driving Exams",
             "description": "Currently the best-rated Greek driving theory exam app on the Play Store. Featuring official exam simulations, all license categories, topic-based study, detailed answer explanations, progress tracking, exam history, and full offline support.",
-            "url": "https://play.google.com/store/apps/details?id=com.github.mariosplen.greek_test_drive",
+            "url": "https://play.google.com/store/apps/details?id=com.github.mariosplen.greek_test_drive&hl=el",
             "screenshotPath": "assets/images/projects/greek_driving_exams.png"
         },
         "project_2": {
